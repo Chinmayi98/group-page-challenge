@@ -7,3 +7,4 @@
 
 ## GitHub Profile Links
 - [Deepthi](https://github.com/Deepthi1003)
+- [Chinmayi](https://github.com/Chinmayi98)
